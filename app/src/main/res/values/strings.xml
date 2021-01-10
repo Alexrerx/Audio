@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AudioControl</string>
+    <string name="start_record">Начать запись</string>
+    <string name="stop_record">Закончить запись</string>
+    <string name="empty_note">--</string>
+    <string name="new_bar">|</string>
+    <string name="choose_bpm">Укажите темп игры</string>
+    <string name="ok">Ок</string>
+    <string name="cancel">Отмена</string>
+    <string name="choosen_defaul_bpm">Выбран темп по-умолчанию (120 bpm)</string>
+    <string name="pause_record">Пауза</string>
+    <string name="tab_saving_error">Невозможно сохранить файл</string>
+    <string name="unexpected_err">Произошла внутренняя ошибка!</string>
+    <string name="exit">Выход</string>
+    <string name="folder_not_found">Не найдена папка конфигураций</string>
+    <string name="new_note">Новая нота</string>
+    <string name="visualization_switch">Включить визуализацию</string>
+    <string name="calibration_button">Калибровка</string>
+    <string name="buffer_size">Размер буфера</string>
+    <string name="error_tab_loading">Ошибка загрузки табулатуры!</string>
+    <string name="menu">Меню</string>
+    <string name="exit_without_saving">Не\nсохранять</string>
+    <string name="continue_record">Продолжить</string>
+    <string name="warning_not_saved">Несохраненные данные будут потеряны!</string>
+    <string name="temp">Установите темп</string>
+    <string name="file">Выберите файл</string>
+    <string name="settings">Настройки</string>
+    <string name="input_tab_name">Введите название таба</string>
+    <string name="save">Сохранить</string>
+    <string name="new_tab_name">Новый таб</string>
+    <string name="freq_is_setted">Установлено значение</string>
+    <string name="error_calibration">Неверное значение частоты!\nУстановлено значение по-умолчанию
+    </string>
+
+
+    <string name="calibrate">Определите частоту ноты ля малой октавы</string>
+    <string name="default_calibrate_text">Нажмите чтобы начать</string>
+    <string name="stop">Стоп</string>
+    <string name="start">Старт</string>
+    <string name="rewrite">Перезаписать файл?</string>
+</resources>
